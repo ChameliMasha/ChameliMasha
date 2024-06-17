@@ -3,6 +3,10 @@
 
 ---
 
+<a target="_blank" align="center">
+  <img align="right" top="500" height="300" width="400" alt="GIF" src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif">
+</a>
+
 - 🔭 I’m currently working on [IoT security using ZTA](https://github.com/ChameliMasha/ZTA_attribute_evaluation.git)
 
 - 🌱 I’m currently learning **Cloud, Docker**
@@ -13,7 +17,7 @@
 
 - 📫 How to reach me **mashapitumpe@gmail.com**
 
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=ChameliMasha&include_all_commits=true&count_private=true&show_icons=true&line_height=20&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40" alt="ABSphreak's Github Stats">
+
 
 
 <h3 align="left">Connect with me:</h3>
